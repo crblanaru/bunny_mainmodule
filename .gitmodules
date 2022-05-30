@@ -1,0 +1,3 @@
+[submodule "bunny_submodule"]
+	path = bunny_submodule
+	url = https://github.com/crblanaru/bunny_submodule.git
