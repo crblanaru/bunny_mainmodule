@@ -1,6 +1,6 @@
 services:
   api:
-    build: bunny_submodule
+    build: .
     container_name: fastapi-application
     environment:
       PORT: 80
